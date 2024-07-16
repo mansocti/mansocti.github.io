@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mansocti.github.io/sitemap
+Sitemap: https://mansocti.github.io/app/sitemap
+Sitemap: https://mansocti.github.io/assets/sitemap
+Sitemap: https://mansocti.github.io/css/sitemap
+Sitemap: https://mansocti.github.io/includes/sitemap
+Sitemap: https://mansocti.github.io/item/sitemap
+Sitemap: https://mansocti.github.io/src/sitemap
